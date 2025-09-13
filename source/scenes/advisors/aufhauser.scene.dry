@@ -5,9 +5,9 @@ card-image: img/portraits/AufhäuserSiegfried.jpg
 view-if: aufhauser_advisor = 1
 new-page: true 
 
-= Siegfried Aufhäuser
+= Theodore Roosevelt
 
-Aufhäuser is a leader of the AfA-Bund, the federation of <span style="color: #c00000;">socialist</span> white-collar trade unions.
+Mr.Roosevelt is a robust leader of the SRP, the federation of <span style="color: #c00000;">socialist</span> white-collar trade unions.
 
 - @white_collar
 - @union_unity
